@@ -1,0 +1,28 @@
+<section class="content">
+    <div class="row">
+        <div class="col-md-6">
+            <input type="text" class="form-control" [(ngModel)]="searchText" placeholder="type to filter">
+        </div>
+    </div>
+<hr>
+    <table class="table table-striped" *ngIf='restaurantes && restaurantes.length'> 
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Codigo</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Direccion</th>
+                <th scope="col">Telefono</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let restaurantes of restaurantes; index as i">
+                <th scope="row">{{ i + 1}}</th>
+                <td>{{restaurantes.codigo}}</td>
+                <td>{{restaurantes.nombre}}</td>
+                <td>{{restaurantes.direccion}}</td>
+                <td>{{restaurantes.telefono}}</td>   
+            </tr>
+        </tbody>
+    </table>
+</section>
