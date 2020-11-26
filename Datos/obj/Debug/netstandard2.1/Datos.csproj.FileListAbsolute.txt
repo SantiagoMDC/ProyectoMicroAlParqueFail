@@ -58,3 +58,15 @@ C:\Users\HP\Downloads\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.
 C:\Users\HP\Downloads\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
 C:\Users\HP\Downloads\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.dll
 C:\Users\HP\Downloads\ProyectoMicroAlParque-master\Datos\obj\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Datos.pdb
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Entity.dll
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\bin\Debug\netstandard2.1\Entity.pdb
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.dll
+C:\Users\HP\Desktop\Proyecto Web MicroAlParque\ProyectoMicroAlParque\Datos\obj\Debug\netstandard2.1\Datos.pdb

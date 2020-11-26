@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S4PgUc/h1/1601SwcKFB1uUeY05BKF0adUMaUwyHvxiireTfQNUlOL31jTukAG1oSRFm5nq4A0g6lkM9gQ+1FQ==",
+  "dgSpecHash": "s/JncI0rznFI/EtcGM522QOyWEhU5R32Qtgve4R7tcEh+hvMGd3oAjp//B2dC54gmlrMz51XGdERu0mRfwkmUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Downloads\\ProyectoMicroAlParque-master\\Logica\\Logica.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Proyecto Web MicroAlParque\\ProyectoMicroAlParque\\Logica\\Logica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19249.1\\microsoft.data.sqlclient.1.0.19249.1.nupkg.sha512",
